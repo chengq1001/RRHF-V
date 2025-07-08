@@ -7,7 +7,8 @@
 </div>
 
 
-<img src="assets/rrhf-v.png" alt="" width="600">
+<img src="assets/rrhf-v.png" alt="" style="width: 100%; display: block;">
+
 
 
 ## Abstract
