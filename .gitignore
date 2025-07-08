@@ -1,0 +1,16 @@
+train_log/
+train_log_new/
+eval/AMBER/log/
+eval/POPE/log/
+eval/CHAIR/log/
+eval/MM-Hal-bench/log/llava-v1.5-hf/
+generate_data_v2/data/
+**/__pycache__/
+**/log/
+.vscode/
+.idea/
+.DS_Store
+eval/LLAVA-bench/in_the_world/images/
+trl/wandb/
+wandb/
+trl/runs/
