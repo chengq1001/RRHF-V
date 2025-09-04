@@ -20,7 +20,7 @@ Multimodal large language models (MLLMs) demonstrate strong capabilities in mult
 ```
 conda create -yn rrhf-v python=3.9
 conda activate rrhf-v
-cd RRHF-V
+git clone https://github.com/chengq1001/RRHF-V.git --depth 1 && cd RRHF-V
 pip install -r requirements.txt
 ```
 
