@@ -41,14 +41,14 @@ python3 RRHF-V_llava-v1_5-7b-hf.py
 <table>
   <tr>
     <td align='center'>
-      <img src="https://avatars.githubusercontent.com/u/67041238?v=4" alt="Contributor 1" height="150" width="160">
+      <img src="https://avatars.githubusercontent.com/u/84018897?s=400&u=b714ac43a7ee0a81d64c63ced63d2474550bde47&v=4" alt="Contributor 1" height="150" width="160">
       <br>
       <b>Guoqing Chen</b>
       <br>
         <a href='https://github.com/chengq1001'>chenguoqing247@gmail.com</a>
     </td>
     <td align='center'>
-      <img src="https://avatars.githubusercontent.com/u/59789526?v=4" alt="Contributor 2" height="150" width="160">
+      <img src="https://avatars.githubusercontent.com/u/67041238?v=4" alt="Contributor 2" height="150" width="160">
       <br>
       <b>Jinghao Lin</b>
       <br>
