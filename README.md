@@ -45,7 +45,7 @@ python3 RRHF-V_llava-v1_5-7b-hf.py
       <br>
       <b>Guoqing Chen</b>
       <br>
-        <a href='https://github.com/chengq1001'>chenguoqing247@gmail.com</a>
+        <a href='https://github.com/chengq1001'>chen.guoqing@bytedance.com</a>
     </td>
     <td align='center'>
       <img src="https://avatars.githubusercontent.com/u/67041238?v=4" alt="Contributor 2" height="150" width="160">
