@@ -38,6 +38,7 @@ python3 RRHF-V_llava-v1_5-7b-hf.py
 ```
 
 ## Core Contributors
+We sincerely thank the core contributors for their dedication and outstanding contributions!
 <table>
   <tr>
     <td align='center'>
